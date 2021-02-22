@@ -1,0 +1,9 @@
+C:\Users\lucyp\source\repos\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe.config
+C:\Users\lucyp\source\repos\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.exe
+C:\Users\lucyp\source\repos\GuessTheNumber\GuessTheNumber\bin\Debug\GuessTheNumber.pdb
+C:\Users\lucyp\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csprojAssemblyReference.cache
+C:\Users\lucyp\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.Form1.resources
+C:\Users\lucyp\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.Properties.Resources.resources
+C:\Users\lucyp\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.csproj.GenerateResource.cache
+C:\Users\lucyp\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.exe
+C:\Users\lucyp\source\repos\GuessTheNumber\GuessTheNumber\obj\Debug\GuessTheNumber.pdb
