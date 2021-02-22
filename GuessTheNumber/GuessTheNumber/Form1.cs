@@ -35,15 +35,8 @@ namespace GuessTheNumber
 
             ainum = rnd.Next(0, 101);
             txtplayernum.Text = "";
-           //write with a variable mid
-
-            // button2.Click +=
-
-            //case mec e 
-            //function to change the color 
-            // case poqr e button 
-            // tommorow do hackerrank finally no lol fak u 
-            // 
+      
+       
 
         }
 
